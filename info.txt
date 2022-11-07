@@ -1,0 +1,5 @@
+git init
+touch info.txt
+git status
+git add .
+git commit -m "Rozpoczęcie projektu"
